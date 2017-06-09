@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/dl/models/lr_model/model"
+all_model_checkpoint_paths: "/home/dl/models/lr_model/model"
